@@ -1,0 +1,41 @@
+_id,"JSON_OBJECT(
+    'id', id,
+    'first_name', first_name,
+    'department', department,
+    'salary', salary,
+    'joining_date', joining_date
+).id","JSON_OBJECT(
+    'id', id,
+    'first_name', first_name,
+    'department', department,
+    'salary', salary,
+    'joining_date', joining_date
+).salary","JSON_OBJECT(
+    'id', id,
+    'first_name', first_name,
+    'department', department,
+    'salary', salary,
+    'joining_date', joining_date
+).department","JSON_OBJECT(
+    'id', id,
+    'first_name', first_name,
+    'department', department,
+    'salary', salary,
+    'joining_date', joining_date
+).first_name","JSON_OBJECT(
+    'id', id,
+    'first_name', first_name,
+    'department', department,
+    'salary', salary,
+    'joining_date', joining_date
+).joining_date"
+679a6fc1a2f9154c31548987,1,75000,IT,Amit,2022-03-15 00:00:00.000000
+679a6fc1a2f9154c31548988,2,65000,HR,Priya,2021-07-01 00:00:00.000000
+679a6fc1a2f9154c31548989,3,80000,Finance,Rahul,2019-09-20 00:00:00.000000
+679a6fc1a2f9154c3154898a,4,70000,Marketing,Neha,2020-01-11 00:00:00.000000
+679a6fc1a2f9154c3154898b,5,72000,IT,Rohan,2023-06-10 00:00:00.000000
+679a6fc1a2f9154c3154898c,6,60000,Operations,Anjali,2018-05-17 00:00:00.000000
+679a6fc1a2f9154c3154898d,7,85000,Finance,Vikram,2017-12-25 00:00:00.000000
+679a6fc1a2f9154c3154898e,8,62000,HR,Suman,2022-02-05 00:00:00.000000
+679a6fc1a2f9154c3154898f,9,68000,Marketing,Kiran,2020-09-29 00:00:00.000000
+679a6fc1a2f9154c31548990,10,59000,Operations,Deepak,2019-04-14 00:00:00.000000

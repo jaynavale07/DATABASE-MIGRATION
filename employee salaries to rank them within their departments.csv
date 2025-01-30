@@ -1,0 +1,17 @@
+"JSON_OBJECT(
+    'id', id,
+    'first_name', first_name,
+    'department', department,
+    'salary', salary,
+    'joining_date', joining_date
+)"
+"{"id": 1, "salary": 75000.00, "department": "IT", "first_name": "Amit", "joining_date": "2022-03-15 00:00:00.000000"}"
+"{"id": 2, "salary": 65000.00, "department": "HR", "first_name": "Priya", "joining_date": "2021-07-01 00:00:00.000000"}"
+"{"id": 3, "salary": 80000.00, "department": "Finance", "first_name": "Rahul", "joining_date": "2019-09-20 00:00:00.000000"}"
+"{"id": 4, "salary": 70000.00, "department": "Marketing", "first_name": "Neha", "joining_date": "2020-01-11 00:00:00.000000"}"
+"{"id": 5, "salary": 72000.00, "department": "IT", "first_name": "Rohan", "joining_date": "2023-06-10 00:00:00.000000"}"
+"{"id": 6, "salary": 60000.00, "department": "Operations", "first_name": "Anjali", "joining_date": "2018-05-17 00:00:00.000000"}"
+"{"id": 7, "salary": 85000.00, "department": "Finance", "first_name": "Vikram", "joining_date": "2017-12-25 00:00:00.000000"}"
+"{"id": 8, "salary": 62000.00, "department": "HR", "first_name": "Suman", "joining_date": "2022-02-05 00:00:00.000000"}"
+"{"id": 9, "salary": 68000.00, "department": "Marketing", "first_name": "Kiran", "joining_date": "2020-09-29 00:00:00.000000"}"
+"{"id": 10, "salary": 59000.00, "department": "Operations", "first_name": "Deepak", "joining_date": "2019-04-14 00:00:00.000000"}"
