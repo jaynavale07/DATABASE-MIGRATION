@@ -3,7 +3,7 @@ This task involves migrating the database schema and data to a new version or pl
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: Jay Navale
+**NAME**: Jay Shankar Navale
 
 **INTERN ID**: CT08JMM
 
