@@ -115,3 +115,9 @@ The key steps involve:
 - **Transforming** the data into a MongoDB-compatible format, considering MongoDB’s schema flexibility.
 - **Importing** the data into MongoDB using MongoDB Compass, which provides an easy-to-use interface for the import process.
 - **Verifying** the integrity and accuracy of the imported data in MongoDB.
+
+**OUTPUT**:
+
+[company_db.employees.csv](https://github.com/user-attachments/files/18608679/company_db.employees.csv)
+[employee salaries to rank them within their departments.csv](https://github.com/user-attachments/files/18608678/employee.salaries.to.rank.them.within.their.departments.csv)
+[Data Migration Report.docx](https://github.com/user-attachments/files/18608650/Data.Migration.Report.docx)
